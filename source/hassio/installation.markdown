@@ -46,7 +46,7 @@ The following will take you through the steps required to install Home Assistant
 
 4. For image-based installs insert the SD card (and optional USB stick) into the device.
 
-5. Turn on your device or virtual appliance. On first boot, it downloads the latest version of Home Assistant which takes around 20 minutes (slower/faster depending on the platform and your Internet connection).
+5. Turn on your device or virtual appliance. In some cases, When the application is idling and cursor is blinking hit the "Enter" key and the HassIO screen should appear, thenat the "Homeassistant login:" appears type 'root' and hit enter, Now use any IP scanner for eg. "Advanced IP Scanner" then hit scan after installing the application then when homeassistant appears on the list of IPs right click and click on copy from dropdown menu and choose IP, now go to any browser(Chrome is recommended), and paste the IP address and add ":8123" in the end and hit enter to get to the Home Assistant Site. On first boot, it downloads the latest version of Home Assistant which takes around 20 minutes (slower/faster depending on the platform and your Internet connection).
 
    <img src='/images/hassio/screenshots/first-start.png' style='clear: right; border:none; box-shadow: none; float: right; margin-bottom: 12px;' width='150' />
 
